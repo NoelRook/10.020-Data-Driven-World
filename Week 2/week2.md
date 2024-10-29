@@ -1,4 +1,4 @@
-Week 2 notes
+Week 2 notes: Binary heaps, Heapsort
 ___________________________________________________
 
 Binary Heaps
